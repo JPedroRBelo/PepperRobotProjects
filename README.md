@@ -1,2 +1,12 @@
 # Como configurar o robô Pepper com NAOqi 2.5.
-***Scripts e Aplicações desenvolvidas no Laboratório de Aprendizado de Robôs da Universidade de São Carlos usando o robô semi-humanoide Pepper.
+
+## Primeiros Passos
+[Configurando o Pepper pela primeira vez](https://developer.softbankrobotics.com/pepper-naoqi-25/pepper-documentation/pepper-user-guide/first-steps-pepper/configuring-pepper-first#out-of-the-box-pepper)
+
+## Programação
+
+ - Python SDK
+ - C/C++ SDK
+ - ROS
+ - Choregraph
+
